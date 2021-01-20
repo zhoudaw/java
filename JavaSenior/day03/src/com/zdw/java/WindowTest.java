@@ -1,7 +1,7 @@
 package com.zdw.java;
 
 class Window extends Thread{
-    private  int ticket =100;
+    private static   int ticket =100;
     @Override
     public void run() {
         while (true){
