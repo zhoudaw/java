@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/JavaSenior.iml" filepath="$PROJECT_DIR$/JavaSenior/JavaSenior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/day01/day01.iml" filepath="$PROJECT_DIR$/JavaSenior/day01/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/day02/day02.iml" filepath="$PROJECT_DIR$/JavaSenior/day02/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/day03/day03.iml" filepath="$PROJECT_DIR$/JavaSenior/day03/day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/day04/day04.iml" filepath="$PROJECT_DIR$/JavaSenior/day04/day04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/day05/day05.iml" filepath="$PROJECT_DIR$/JavaSenior/day05/day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/day06/day06.iml" filepath="$PROJECT_DIR$/JavaSenior/day06/day06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/day07/day07.iml" filepath="$PROJECT_DIR$/JavaSenior/day07/day07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/day08/day08.iml" filepath="$PROJECT_DIR$/JavaSenior/day08/day08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/day09-jihe/day09-jihe.iml" filepath="$PROJECT_DIR$/JavaSenior/day09-jihe/day09-jihe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+    </modules>
+  </component>
+</project>

@@ -4,12 +4,15 @@ package com.zdw.java;
 *
 * */
 
+
+
 import org.junit.Test;
 
 import javax.crypto.interfaces.PBEKey;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
+import java.util.List;
 
 public class CollectionTest1 {
     @Test
@@ -71,6 +74,10 @@ public class CollectionTest1 {
         for(int i=0;i<arr.length;i++){
             System.out.println(arr[i]);
         }
+
+//        扩展：数组--->集合:调用Arrays类的静态方法asList()
+//        List<String> list =Arrays.asList(new String[]{"AA","BB","CC"});
+//        System.out.println(list);
 
     }
 }
